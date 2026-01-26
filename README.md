@@ -60,8 +60,6 @@ python app.py
 4. Open your browser and navigate to:
 ```
 http://localhost:8080
-
-
 ```
 
 ## API Endpoints
