@@ -60,36 +60,8 @@ python app.py
 4. Open your browser and navigate to:
 ```
 http://localhost:8080
-```
 
-## Deployment to Google Cloud Platform
 
-### Prerequisites
-
-- [Google Cloud SDK](https://cloud.google.com/sdk/docs/install)
-- GCP project with billing enabled
-- App Engine initialized in your project
-
-### Deploy Steps
-
-1. Authenticate with Google Cloud:
-```bash
-gcloud auth login
-```
-
-2. Set your project ID:
-```bash
-gcloud config set project YOUR_PROJECT_ID
-```
-
-3. Deploy to App Engine:
-```bash
-gcloud app deploy
-```
-
-4. View your deployed application:
-```bash
-gcloud app browse
 ```
 
 ## API Endpoints
